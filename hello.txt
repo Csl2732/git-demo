@@ -6,6 +6,7 @@ hello world!
 hello world!
 hello world!
 master test
-
+hot
+hot-fix test
 
 hello world!
